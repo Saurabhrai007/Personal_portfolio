@@ -12,7 +12,7 @@
 
 ## 📸 Live Demo
 
-🌐 **[View Live Portfolio →](https://your-portfolio.vercel.app)**
+🌐 **[View Live Portfolio →](https://personal-portfolio-saurabhrai007s-projects.vercel.app/)**
 
 > Replace the link above with your actual Vercel URL after deployment.
 
@@ -173,8 +173,8 @@ Here are all the places you need to update to make this portfolio your own:
 ### 🔤 Your Name
 **File:** `src/components/Navbar.jsx` — Line ~30
 ```jsx
-// Change AARAV to your name
-AARAV<span className="text-cyan-400">.</span>DEV
+// Change SAURABH to your name
+SAURABH<span className="text-cyan-400">.</span>DEV
 ```
 
 ### 🏠 Hero Section
@@ -196,7 +196,7 @@ AARAV<span className="text-cyan-400">.</span>DEV
 
 ### 📬 Contact & Socials
 **File:** `src/pages/Connect.jsx`
-- Lines ~8–24 → Update LinkedIn, GitHub, Instagram links
+- Lines ~8–24 → Update LinkedIn, GitHub links
 
 ### 📄 CV Download
 - Create a `public/` folder in the project root
@@ -273,10 +273,8 @@ You are free to use, modify, and distribute this project for personal and commer
 
 ## 🙋 Author
 
-**Your Name Here**
-- Portfolio: [your-portfolio.vercel.app](https://your-portfolio.vercel.app)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+**SAURABH RAI**
+- Portfolio: [your-portfolio.vercel.app](https://personal-portfolio-saurabhrai007s-projects.vercel.app/)
 
 ---
 
